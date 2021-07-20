@@ -1,0 +1,66 @@
+
+thread stopping.
+area 0: 132063699 allocs, 1321 threads
+area 1: 128066090 allocs, 1281 threads
+area 2: 126251527 allocs, 1263 threads
+area 3: 127002163 allocs, 1271 threads
+area 4: 125289311 allocs, 1253 threads
+Throughput = 42577881 operations per second.
+Memory used = 3198975 bytes, required 1200000, ratio 2.665812
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 148370039 allocs, 1484 threads
+area 1: 127217157 allocs, 1273 threads
+area 2: 124121985 allocs, 1242 threads
+area 3: 125684478 allocs, 1257 threads
+area 4: 143866147 allocs, 1439 threads
+Throughput = 44616918 operations per second.
+Memory used = 3190783 bytes, required 1200000, ratio 2.658986
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 142135672 allocs, 1422 threads
+area 1: 132777333 allocs, 1328 threads
+area 2: 130586461 allocs, 1306 threads
+area 3: 129479559 allocs, 1295 threads
+area 4: 129586461 allocs, 1296 threads
+Throughput = 44304043 operations per second.
+Memory used = 3194879 bytes, required 1200000, ratio 2.662399
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 136222402 allocs, 1363 threads
+area 1: 134319634 allocs, 1344 threads
+area 2: 128781317 allocs, 1288 threads
+area 3: 131260439 allocs, 1313 threads
+area 4: 136188745 allocs, 1362 threads
+Throughput = 44451133 operations per second.
+Memory used = 3203071 bytes, required 1200000, ratio 2.669226
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 146963102 allocs, 1470 threads
+area 1: 136952100 allocs, 1370 threads
+area 2: 138287483 allocs, 1383 threads
+area 3: 139494270 allocs, 1395 threads
+area 4: 140548697 allocs, 1406 threads
+thread stopping.
+Throughput = 46815944 operations per second.
+Memory used = 3186687 bytes, required 1200000, ratio 2.655572
+Done sleeping...

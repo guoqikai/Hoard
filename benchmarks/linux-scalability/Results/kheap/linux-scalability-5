@@ -1,0 +1,26 @@
+
+Object size: 128, Iterations: 100000, Threads: 5
+Running on system with 16 processors.
+Starting test...
+Average execution time = 3.186031 seconds, standard deviation = 1.366888.
+Memory used = 51384319 bytes
+Object size: 128, Iterations: 100000, Threads: 5
+Running on system with 16 processors.
+Starting test...
+Average execution time = 2.081050 seconds, standard deviation = 1.101147.
+Memory used = 37994495 bytes
+Object size: 128, Iterations: 100000, Threads: 5
+Running on system with 16 processors.
+Starting test...
+Average execution time = 2.958737 seconds, standard deviation = 1.284722.
+Memory used = 49025023 bytes
+Object size: 128, Iterations: 100000, Threads: 5
+Running on system with 16 processors.
+Starting test...
+Average execution time = 2.312682 seconds, standard deviation = 1.172505.
+Memory used = 38461439 bytes
+Object size: 128, Iterations: 100000, Threads: 5
+Running on system with 16 processors.
+Starting test...
+Average execution time = 2.578405 seconds, standard deviation = 0.938309.
+Memory used = 43679743 bytes

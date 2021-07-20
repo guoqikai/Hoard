@@ -1,0 +1,46 @@
+
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 149300284 allocs, 1494 threads
+area 1: 139975146 allocs, 1400 threads
+area 2: 143300672 allocs, 1434 threads
+Throughput = 28838197 operations per second.
+Memory used = 1916927 bytes, required 720000, ratio 2.662399
+Done sleeping...
+thread stopping.
+area 0: 162040886 allocs, 1621 threads
+area 1: 146630188 allocs, 1467 threads
+area 2: 145234630 allocs, 1453 threads
+Throughput = 30260103 operations per second.
+Memory used = 1871871 bytes, required 720000, ratio 2.599821
+thread stopping.
+thread stopping.
+Done sleeping...
+thread stopping.
+thread stopping.
+area 0: 147344493 allocs, 1474 threads
+area 1: 146130472 allocs, 1462 threads
+area 2: 141679227 allocs, 1417 threads
+Throughput = 29009996 operations per second.
+Memory used = 1916927 bytes, required 720000, ratio 2.662399
+thread stopping.
+Done sleeping...
+thread stopping.
+area 0: 145337814 allocs, 1454 threads
+area 1: 135451474 allocs, 1355 threads
+area 2: 139284324 allocs, 1393 threads
+Throughput = 28004652 operations per second.
+Memory used = 1921023 bytes, required 720000, ratio 2.668087
+thread stopping.
+thread stopping.
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 142704904 allocs, 1428 threads
+area 1: 139527930 allocs, 1396 threads
+area 2: 144237159 allocs, 1443 threads
+Throughput = 28431074 operations per second.
+Memory used = 1916927 bytes, required 720000, ratio 2.662399
+Done sleeping...

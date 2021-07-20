@@ -1,0 +1,66 @@
+
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 354117375 allocs, 3542 threads
+area 1: 279587795 allocs, 2796 threads
+area 2: 257516410 allocs, 2576 threads
+area 3: 258181685 allocs, 2582 threads
+area 4: 377782066 allocs, 3778 threads
+Throughput = 101811424 operations per second.
+Memory used = 2027520 bytes, required 1200000, ratio 1.689600
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 311100480 allocs, 3112 threads
+area 1: 283914870 allocs, 2840 threads
+area 2: 265283232 allocs, 2653 threads
+area 3: 271519633 allocs, 2716 threads
+area 4: 292249536 allocs, 2923 threads
+Throughput = 94936979 operations per second.
+Memory used = 2027520 bytes, required 1200000, ratio 1.689600
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 378463281 allocs, 3785 threads
+area 1: 373137320 allocs, 3732 threads
+area 2: 352084863 allocs, 3521 threads
+area 3: 315230286 allocs, 3153 threads
+area 4: 297020693 allocs, 2971 threads
+Throughput = 114394822 operations per second.
+Memory used = 2027520 bytes, required 1200000, ratio 1.689600
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 352892738 allocs, 3529 threads
+area 1: 292023623 allocs, 2921 threads
+area 2: 268644648 allocs, 2687 threads
+area 3: 293066187 allocs, 2931 threads
+area 4: 405214321 allocs, 4053 threads
+Throughput = 107455130 operations per second.
+Memory used = 2027520 bytes, required 1200000, ratio 1.689600
+Done sleeping...
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+thread stopping.
+area 0: 398004446 allocs, 3981 threads
+area 1: 319725042 allocs, 3198 threads
+area 2: 288723630 allocs, 2888 threads
+area 3: 278792267 allocs, 2788 threads
+area 4: 306631335 allocs, 3067 threads
+Throughput = 106124162 operations per second.
+Memory used = 2027520 bytes, required 1200000, ratio 1.689600
+Done sleeping...

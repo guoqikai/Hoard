@@ -1,0 +1,16 @@
+
+Running with 100000 allocations, 6 threads, min size = 10, max size = 1024
+Time elapsed = 0.021059 seconds
+Memory used = 0 bytes
+Running with 100000 allocations, 6 threads, min size = 10, max size = 1024
+Time elapsed = 0.023178 seconds
+Memory used = 0 bytes
+Running with 100000 allocations, 6 threads, min size = 10, max size = 1024
+Time elapsed = 0.020731 seconds
+Memory used = 0 bytes
+Running with 100000 allocations, 6 threads, min size = 10, max size = 1024
+Time elapsed = 0.012682 seconds
+Memory used = 0 bytes
+Running with 100000 allocations, 6 threads, min size = 10, max size = 1024
+Time elapsed = 0.022232 seconds
+Memory used = 0 bytes
