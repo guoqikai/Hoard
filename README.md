@@ -1,2 +1,2 @@
-# Hoard: Scalable Memory allocator 
+# Hoard: Scalable Memory Allocator 
 
