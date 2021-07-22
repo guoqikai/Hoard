@@ -6,7 +6,7 @@ A C implementation of the Hoard memory allocator. The implementation is located 
 2. In my implementation, one bin is reserved for completely full super-blocks so we can avoid checking if a super-block is full when we allocate block. 
 
 ## Benchmark results:
-This Hoard implementation is compared with the memory allocator in standard library(libc), and a pool-based subpage allocator(kheap, also called kmalloc)\ 
+This Hoard implementation is compared with the memory allocator in standard library(libc), and a pool-based subpage allocator(kheap, also called kmalloc)   
 ![result](./results/cache-scratch_page-0001.jpg)
 ![result](./results/cache-thrash_page-0001.jpg)
 ![result](./results/linux-scalability_page-0001.jpg)
