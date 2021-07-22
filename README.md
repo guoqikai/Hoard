@@ -17,3 +17,6 @@ This Hoard implementation is compared with the memory allocator in standard libr
 1. cd into top directory of the project, run `export TOPDIR=$(pwd)`
 2. run `make all`
 3. cd into the benchmark directory, you can run `./runall ./` to run all benchmarks or `./runbench` to run a particular benchmark. The whole benchmarking process took about 40min on my machine. Notice that you need to have at least 8 physical cores on you machine to run this benchmark.
+
+## Reference:
+Berger, E. D.; McKinley, K. S.; Blumofe, R. D.; Wilson, P. R. (November 2000). [Hoard: A Scalable Memory Allocator for Multithreaded Applications](https://people.cs.umass.edu/~emery/pubs/berger-asplos2000.pdf)
