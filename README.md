@@ -2,7 +2,7 @@
 A C implementation of the Hoard memory allocator. The implementation is located in allocators/horad_alloc.
 
 ## Implementation details:
-1. pointers to super-block reference and owner heap are stored at the beginning of each super-block, so when we free a block of memory we can shift to the head of its super-block and find its owner. The whole operation takes constant time. However, this approach might lead to internal fragmentation in some scenarios. Another approach is to store these pointers at the top of the heap, but spacial locality is the main concern for this method.
+1. pointers to super-block reference and owner heap are stored at the beginning of each super-block, so when we free a block of memory we can shift to the head of its super-block and find its owner. The whole operation takes constant time. However, this approach might lead to internal fragmentation in some scenarios. To sovle this we could store these pointers at the top of the heap, but it leads to worse spacial locality.
 2. In my implementation, one bin is reserved for completely full super-blocks, so we can avoid checking if a super-block is full when we allocate block.
 
 ## Benchmark results:
